@@ -216,7 +216,7 @@
         "Id": "dfe35da1-dfec-476e-afa8-40d2af340204",
         "Name": "AWS.Lambda.Concurrency",
         "Label": "Reserved Concurrency",
-        "HelpText": "Optional.\n\nReserved for this function. For more information, see [Concurrency](https://docs.aws.amazon.com/lambda/latest/dg/configuration-concurrency.html).\n",
+        "HelpText": "Optional.\n\nReserved Concurrency for this function. For more information, see [Concurrency](https://docs.aws.amazon.com/lambda/latest/dg/configuration-concurrency.html).\n",
         "DefaultValue": "",
         "DisplaySettings": {
           "Octopus.ControlType": "SingleLineText"
